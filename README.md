@@ -1,5 +1,5 @@
 # CONVOLUTIONALNEURALNETWORK(CNN)FORBREAST CANCER DETECTION
-Source:https://www.kaggle.com/paultimothymooney/breasthistopathologyimages/downloads/IDC
+Source:https://www.kaggle.com/paultimothymooney/breasthistopathologyimages/downloads/IDC
 
 IDC classification using Keras framework.
 Invasive Ductal Carcinoma (IDC) is the most common subtype of all
